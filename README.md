@@ -1,2 +1,1 @@
-# alamon4.github.io
-My Personal Website
+###Austin Lamon's Personal Website
